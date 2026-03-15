@@ -3,7 +3,7 @@ import requests
 
 app = FastAPI()
 
-LOCAL_AI = "https://herself-pop-atlantic-attitudes.trycloudflare.com/chat"
+LOCAL_AI = "https://swing-ski-earning-durham.trycloudflare.com/chat"
 
 @app.get("/")
 def home():
